@@ -1,0 +1,8 @@
+.Git
+.env
+.env.local
+node_modules/
+dist/
+build/
+.cache/
+.yarn/
